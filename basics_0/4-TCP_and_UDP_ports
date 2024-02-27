@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+netstat -l
+# Command use to display various information about current network connections. The option -l is to display only listening sockets
