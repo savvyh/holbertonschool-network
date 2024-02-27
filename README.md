@@ -10,8 +10,9 @@
 - How to access a website ?
 - What about the IP address, IPv4 et IPv6 ?
 - `netstat`
+- `ping`
 
-## Everything on the network ✔️
+## Everything on the network 🚀
   - The Network :
   - The OSI Model :
   - The TCP/IP Model :
@@ -19,7 +20,15 @@
   - MAC Adress :
   - Website :
   - IP adress (IPv4 & IPv6) :
-  - The commande `netstat` : This command is use to display various information about current network connections.
-
+  - The command `netstat` is use to display various information about current network connections.
+  - The command `ping` is used to check network connectivity between two devices. Write the command `ping [options] [address_IP or domain_name]`:
+      * Checking network connectivity
+      * ICMP request
+      * "echo" or "pong" response
+      * Measuring response time
+      * Checking and monitoring server availability.
+      * The ping command will interpret the results.
+      * Option example : `-c` allows you to specify the number of packets to send.
+ 
 ### Authors 🧞‍♀️
 Sarah Boutier
