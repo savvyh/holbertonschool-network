@@ -1,9 +1,9 @@
 # Network - Basics
 
-# General 💻
+## General 💻
 - Here are the questions, you will find the answers in the tasks of this project.
 
-### Requirements 🧢
+## Requirements 🧢
   - All Bash script files must be executable
   - Bash script must pass `shellcheck` without any error
   - The first line of all Bash scripts should be exactly `#!/usr/bin/env bash`
